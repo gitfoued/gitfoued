@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, Java, or any tech-related stuff.**
 
-- 📈 I enjoy solving coding challenges on [LeetCode](https://leetcode.com/your-username/).
+- 📈 I enjoy solving coding challenges on [LeetCode](https://leetcode.com/u/fouedtrabelsu2002/).
 
 - 📫 How to reach me **fouedtrabelsu2002@gmail.com**
 
@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/foued-trabelsi-94857a242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Foued Trabelsi" height="30" width="40" /></a>
-<a href="https://leetcode.com/your-username/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://twitter.com/your-username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/fouedtrabelsu2002/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/foued_tra/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
